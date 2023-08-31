@@ -6,7 +6,6 @@ I had a difficult time extracting the data from the table in html format. With t
 lists of BeautifulSoup elements. At first, it just changed the look of my dataframe to where every record had a square bracket around it. I thought maybe that could still work. However, when I tried to change data types, an error appeared stating that basically a BeautifulSoup element 
 couldn't be changed to datetime. The tutor helped me build a nested loop with a conditional statement inside it in order to extract the text values of the table's data. 
 
-The following websites were used to help with coding:
-1.
-2. 
-3. 
+The saved csv file is located in the Output folder.
+
+The plots are incomplete at this time.
